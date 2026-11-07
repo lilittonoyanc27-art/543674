@@ -1,0 +1,6 @@
+{
+  "name": "Literatura 7.º — Examen Interactivo ES/HY",
+  "description": "Գրականության փորձնական քննություն 7-րդ դասարան (իսպաներեն-հայերեն) ինտերակտիվ թարգմանությամբ և քննական վարժություններով",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
